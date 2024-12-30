@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Khac Dong Quan</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">A curious developer who sees every challenge as an opportunity to grow and every project as a step towards innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmdkhac12&label=Profile%20views&color=0e75b6&style=flat" alt="tmdkhac12" /> </p>
 
@@ -75,7 +75,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-</p>  
+</p> <br>
+
+<h3 align="left">🚀 Projects:</h3>
+<ul>
+  <li><a href="https://github.com/tmdkhac12/POS">POS</a> - A Point Of Sale system for Fast Food Restaurant.</li>
+</ul>
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
